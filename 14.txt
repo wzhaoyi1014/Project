@@ -3,21 +3,7 @@
 1.基础概念
 
   * 什么是数据库
-  * 为什么用数据库
-  * 关系型数据库
 
-    数据库  数据表   记录   数据元素   字段  主键
-
-2. mysql
-
-   * 安装方法
-   * 基本特征
-
-3. 数据库操作
-
-   show databases;
-   create database [db];
-   use [db];
    select database();
    show create database [db];
    drop database [db];

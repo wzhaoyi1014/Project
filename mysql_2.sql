@@ -16,6 +16,11 @@ insert into book (name,auther,public,price) values
 ('林家铺子','矛盾','机械工业出版社',61.5),
 ('朝花夕拾','鲁迅','中国文学出版社',46);
 
+insert into book (name,auther,public,price) values
+('林家铺子','矛盾','机械工业出版社',61.5),
+('朝花夕拾','鲁迅','中国文学出版社',46);
+
+
 -- where字句示例
 select * from class_1  where score between 80 and 90;
 
